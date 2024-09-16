@@ -1,0 +1,19 @@
+{
+  "name": "disinformation-tool",
+  "version": "1.0.0",
+  "description": "\"A disinformation tool for facebook groups\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.21.0",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "natural": "^8.0.1",
+    "request": "^2.88.2"
+  },
+  "type": "module" 
+}

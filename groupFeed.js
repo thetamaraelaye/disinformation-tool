@@ -1,4 +1,4 @@
-groupFeed: [
+export default groupFeed = [
     {
       id: "244810232210782",
       privacy_info: { label: { text: "Public" } },
@@ -47742,7 +47742,7 @@ groupFeed: [
                           __typename: "User",
                           strong_id__: "61555812175543",
                           id: "61555812175543",
-                          name: "Berg\u00fc \u00d6ztonga",
+                          name: "Berg\u00fc tonga",
                           short_name: "Berg\u00fc",
                           profile_picture: {
                             uri: "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-1/419248279_122095793882193739_54158722188231252_n.jpg?stp=c150.150.724.724a_cp0_dst-jpg_e15_q65_s112x112&_nc_cat=107&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=JFLL7-8u-1QQ7kNvgF2m73N&_nc_ad=z-m&_nc_cid=1087&_nc_ht=scontent-hou1-1.xx&oh=00_AYA-9tCkDw3R-9qtMb_QjYR1bw0kaCTEtUd_6Wtl1viDRg&oe=66EC202C",

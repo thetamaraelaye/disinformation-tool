@@ -5,10 +5,12 @@ dotenv.config();
 import request from "request";
 //import the nodejs inbuilt file system
 import fs from "fs";
+
 //get the env variables from the env file
 const SCRAPER_CONSUMER_KEY = process.env.SCRAPER_CONSUMER_KEY;
 const SCRAPER_CONSUMER_SECRET = process.env.SCRAPER_CONSUMER_SECRET;
 const url = process.env.BASE_URL;
+
 //create a variable for storing the group data
 let groupsData;
 //api call to get groups that discuss about keyword --- "natural remedies for cancer"
